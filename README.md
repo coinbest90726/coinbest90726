@@ -11,7 +11,7 @@ In 2021 I was invited to work as an SRE (Site Reliability Engineer). Experience 
 
 I performed maintenance on microservices in Node, PHP and Python, in addition to systems with event-driven architecture patterns, API Gateway provisioning using the kong tool.
 
-Finally, more than two years passed and I felt the need to learn more, I moved to the DevOps team, where I was able to have contact with the infrastructure created during the implementation of the systems, using Terraform (infrastructure as code), Spacelift and AWS technologies .</h3>
+Finally, more than two years passed and I  felt the need to learn more, I moved to the DevOps team, where I was able to have contact with the infrastructure created during the implementation of the systems, using Terraform (infrastructure as code), Spacelift and AWS technologies .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archaic10&label=Profile%20views&color=0e75b6&style=flat" alt="archaic10" /></p>
 
