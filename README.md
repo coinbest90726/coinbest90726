@@ -13,7 +13,7 @@ I performed maintenance on microservices in Node, PHP and Python, in addition to
 
 Finally, more than two years passed and I felt the need to learn more, I moved to the DevOps team, where I was able to have contact with the infrastructure created during the implementation of the systems, using Terraform (infrastructure as code), Spacelift and AWS technologies .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=archaic10&label=Profile%20views&color=0e75b6&style=flat" alt="archaic10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=archaic10&label=Profile%20views&color=0e75b6&style=flat" alt="archaic10" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archaic10" alt="archaic10" /></a> </p>
 
